@@ -356,7 +356,7 @@ a:focus {
 }
 
 .furniture_section .box .detail-box h5 {
-  text-transform: uppercase;
+  text-transform: text-transform;
   font-size: 18px;
 }
 
@@ -569,7 +569,6 @@ a:focus {
 
 .contact_section {
   position: relative;
-  background-color: #f9fafa;
   padding-top: 75px;
   padding-bottom: 75px;
 }
